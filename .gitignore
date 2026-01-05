@@ -1,0 +1,13 @@
+# .gitignore
+# Ignore zone identifier files
+*.zone.identifier
+
+# Ignore environment variable files
+.env
+.env.local
+.env.*.local
+# Ignore log files
+*.log
+# Ignore temporary files
+*.tmp
+*.temp
