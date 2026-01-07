@@ -1,6 +1,8 @@
 # .gitignore
 # Ignore zone identifier files
 *.zone.identifier
+*:Zone.Identifier
+
 
 # Ignore environment variable files
 .env
